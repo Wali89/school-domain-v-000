@@ -13,6 +13,6 @@ class School
   end
 
   def grade(grade)
-    return school.grade
+    return this.grade
   end
 end
